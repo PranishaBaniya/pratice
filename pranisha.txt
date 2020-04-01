@@ -1,2 +1,6 @@
 Hello Pranisha !!!
+<<<<<<< HEAD
 Hi Rukesh!!
+=======
+How are you
+>>>>>>> db032567fc25427432dc17c841a3dbdc29ad2e42
